@@ -1,4 +1,10 @@
+
 {
+  
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step needed'"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
